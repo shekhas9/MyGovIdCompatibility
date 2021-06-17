@@ -1,4 +1,4 @@
-Requirement-
+**Requirement**-
 
 Java Jdk 1.8 or higher
 Maven 3.8.1
@@ -7,7 +7,7 @@ Appium 7.0.0
 Selenium 3.141.59
 
 
-Installation-
+**Installation**-
 
 Download Eclipse Mars
 Create a maven Project
