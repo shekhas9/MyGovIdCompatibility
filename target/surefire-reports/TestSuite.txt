@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 70.913 s <<< FAILURE! - in TestSuite
+firstPageTest(au.com.mygovid.CompatibilityJava.RegistrationTest)  Time elapsed: 33.152 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mobile-SIT-Automation.local', ip: '10.240.155.8', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sitauto/Pictures/COM..., appPackage: au.gov.ato.mygovid.droid.in..., databaseEnabled: false, desired: {app: /Users/sitauto/Pictures/COM..., deviceName: ANDROID, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Pixel 2, deviceName: FA7AW1A02820, deviceScreenDensity: 356, deviceScreenSize: 1080x1920, deviceUDID: FA7AW1A02820, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.2250001, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 53, takesScreenshot: true, viewportRect: {height: 1760, left: 0, top: 53, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a5805112-914d-4976-b8a9-627d3dd813bc
+*** Element info: {Using=id, value=au.gov.ato.mygovid.droid.integration:id/capturePasswordHeadingLabel}
+	at au.com.mygovid.CompatibilityJava.RegistrationTest.firstPageTest(RegistrationTest.java:43)
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mobile-SIT-Automation.local', ip: '10.240.155.8', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '1.8.0_201'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/sitauto/Pictures/COM..., appPackage: au.gov.ato.mygovid.droid.in..., databaseEnabled: false, desired: {app: /Users/sitauto/Pictures/COM..., deviceName: ANDROID, platformName: android}, deviceApiLevel: 29, deviceManufacturer: Google, deviceModel: Pixel 2, deviceName: FA7AW1A02820, deviceScreenDensity: 356, deviceScreenSize: 1080x1920, deviceUDID: FA7AW1A02820, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.2250001, platform: LINUX, platformName: Android, platformVersion: 10, statBarHeight: 53, takesScreenshot: true, viewportRect: {height: 1760, left: 0, top: 53, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a5805112-914d-4976-b8a9-627d3dd813bc
+*** Element info: {Using=id, value=au.gov.ato.mygovid.droid.integration:id/capturePasswordHeadingLabel}
+	at au.com.mygovid.CompatibilityJava.RegistrationTest.firstPageTest(RegistrationTest.java:43)
+

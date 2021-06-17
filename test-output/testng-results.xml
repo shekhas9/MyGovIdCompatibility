@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60305" started-at="2021-06-17T01:17:57Z" finished-at="2021-06-17T01:18:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60305" started-at="2021-06-17T01:17:57Z" finished-at="2021-06-17T01:18:58Z">
+      <class name="au.com.mygovid.CompatibilityJava.BirthCertificateTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="setUp" is-config="true" duration-ms="9823" started-at="2021-06-17T01:17:57Z" finished-at="2021-06-17T01:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testEnd()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="testEnd" duration-ms="3" started-at="2021-06-17T01:18:07Z" finished-at="2021-06-17T01:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="tearDown" is-config="true" duration-ms="172" started-at="2021-06-17T01:18:07Z" finished-at="2021-06-17T01:18:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="setUp" is-config="true" duration-ms="8596" started-at="2021-06-17T01:18:07Z" finished-at="2021-06-17T01:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testInit()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="testInit" duration-ms="1" started-at="2021-06-17T01:18:16Z" finished-at="2021-06-17T01:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="tearDown" is-config="true" duration-ms="177" started-at="2021-06-17T01:18:16Z" finished-at="2021-06-17T01:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="setUp" is-config="true" duration-ms="8620" started-at="2021-06-17T01:18:16Z" finished-at="2021-06-17T01:18:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="BirthCertificateTest()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="BirthCertificateTest" duration-ms="32779" started-at="2021-06-17T01:18:25Z" finished-at="2021-06-17T01:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BirthCertificateTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:au.com.mygovid.CompatibilityJava.BirthCertificateTest@471a9022]" name="tearDown" is-config="true" duration-ms="118" started-at="2021-06-17T01:18:58Z" finished-at="2021-06-17T01:18:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- au.com.mygovid.CompatibilityJava.BirthCertificateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
